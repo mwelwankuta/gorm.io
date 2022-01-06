@@ -1,6 +1,7 @@
-# Gorm Offical Site
+# Gorm
+this is not the oficial gorm site and was only deployed because i face network challenges visiting the site
 
-This website is for [GORM](https://github.com/go-gorm/gorm), you can access its content at [http://gorm.io](http://gorm.io)
+This website is for [GORM](https://github.com/go-gorm/gorm), you can access its content at [https://gorm.vercel.app](https://gorm.vercel.app/)
 
 ![build](https://github.com/go-gorm/gorm.io/workflows/build/badge.svg)
 
